@@ -14,10 +14,10 @@
  },
  "assets": {
   "lower_third": {
-   "file": "lower-third-sloane-9x16.png",
+   "file": "lower-third-jordan-9x16.png",
    "plate": {
     "x": 72,
-    "y": 1476,
+    "y": 320,
     "w": 560,
     "h": 180,
     "radius": 28,
@@ -25,14 +25,14 @@
    },
    "name": {
     "x": 116,
-    "y": 1524,
+    "y": 368,
     "size": 60,
     "weight": 700,
     "color": "#1A1917"
    },
    "role": {
     "x": 116,
-    "y": 1576,
+    "y": 420,
     "size": 34,
     "weight": 500,
     "color": "#1A1917"
@@ -42,7 +42,7 @@
    "file": "lower-third-blank-9x16.png",
    "plate": {
     "x": 72,
-    "y": 1476,
+    "y": 320,
     "w": 560,
     "h": 180,
     "radius": 28,
@@ -50,14 +50,14 @@
    },
    "name": {
     "x": 116,
-    "y": 1561,
+    "y": 405,
     "size": 60,
     "weight": 700,
     "color": "#1A1917"
    },
    "role": {
     "x": 116,
-    "y": 1571,
+    "y": 415,
     "size": 34,
     "weight": 500,
     "color": "#1A1917"
