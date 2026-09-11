@@ -66,11 +66,11 @@
   "lower_third_sage": {
    "file": "lower-third-sage-9x16.png",
    "plate": {
-    "x": 72,
-    "y": 320,
-    "w": 560,
-    "h": 180,
-    "radius": 28,
+    "x": 732,
+    "y": 280,
+    "w": 293,
+    "h": 128,
+    "radius": 22,
     "fill": "#B08930"
    },
    "name": {
@@ -86,7 +86,8 @@
     "size": 34,
     "weight": 500,
     "color": "#1A1917"
-   }
+   },
+   "plate_note": "узкая плашка справа от лица под чипом (11.09.2026); источник геометрии — kit_narrow_plate.py, не генератор кита"
   },
   "lower_third_avery": {
    "file": "lower-third-avery-9x16.png",
@@ -116,11 +117,11 @@
   "lower_third_jordan": {
    "file": "lower-third-jordan-9x16.png",
    "plate": {
-    "x": 72,
-    "y": 320,
-    "w": 560,
-    "h": 180,
-    "radius": 28,
+    "x": 732,
+    "y": 280,
+    "w": 294,
+    "h": 128,
+    "radius": 22,
     "fill": "#B08930"
    },
    "name": {
@@ -136,16 +137,17 @@
     "size": 34,
     "weight": 500,
     "color": "#1A1917"
-   }
+   },
+   "plate_note": "узкая плашка справа от лица под чипом (11.09.2026); источник геометрии — kit_narrow_plate.py, не генератор кита"
   },
   "lower_third_blake": {
    "file": "lower-third-blake-9x16.png",
    "plate": {
-    "x": 72,
-    "y": 320,
-    "w": 583,
-    "h": 180,
-    "radius": 28,
+    "x": 732,
+    "y": 280,
+    "w": 330,
+    "h": 128,
+    "radius": 22,
     "fill": "#B08930"
    },
    "name": {
@@ -161,16 +163,17 @@
     "size": 34,
     "weight": 500,
     "color": "#1A1917"
-   }
+   },
+   "plate_note": "узкая плашка справа от лица под чипом (11.09.2026); источник геометрии — kit_narrow_plate.py, не генератор кита"
   },
   "lower_third_miles": {
    "file": "lower-third-miles-9x16.png",
    "plate": {
-    "x": 72,
-    "y": 320,
-    "w": 587,
-    "h": 180,
-    "radius": 28,
+    "x": 745,
+    "y": 280,
+    "w": 309,
+    "h": 128,
+    "radius": 22,
     "fill": "#B08930"
    },
    "name": {
@@ -186,7 +189,8 @@
     "size": 34,
     "weight": 500,
     "color": "#1A1917"
-   }
+   },
+   "plate_note": "узкая плашка справа от лица под чипом (11.09.2026); источник геометрии — kit_narrow_plate.py, не генератор кита"
   },
   "lower_third_ruby": {
    "file": "lower-third-ruby-9x16.png",
@@ -216,11 +220,11 @@
   "lower_third_rene": {
    "file": "lower-third-rene-9x16.png",
    "plate": {
-    "x": 72,
-    "y": 320,
-    "w": 718,
-    "h": 180,
-    "radius": 28,
+    "x": 776,
+    "y": 280,
+    "w": 250,
+    "h": 128,
+    "radius": 22,
     "fill": "#B08930"
    },
    "name": {
@@ -236,7 +240,8 @@
     "size": 34,
     "weight": 500,
     "color": "#1A1917"
-   }
+   },
+   "plate_note": "узкая плашка справа от лица под чипом (11.09.2026); источник геометрии — kit_narrow_plate.py, не генератор кита"
   },
   "lower_third_blank": {
    "file": "lower-third-blank-9x16.png",
