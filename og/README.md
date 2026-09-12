@@ -26,7 +26,7 @@
 cd og && sha256sum -c SHA256SUMS.txt
 ```
 
-## Опись — 29 карточек, 2037792 байт (1990.0 КБ)
+## Опись — 29 карточек, 2027152 байт (1979.6 КБ)
 
 | файл | пиксели | байт | sha256 |
 |---|---|---|---|
@@ -53,7 +53,7 @@ cd og && sha256sum -c SHA256SUMS.txt
 | `roles/og-role-appointment-coordinator.jpg` | 1200×630 | 34112 | `cb6d2beaeec056a9c7967e0e9121bee8b577e89e1808443e0acc6488fe504907` |
 | `roles/og-role-business-advisor.jpg` | 1200×630 | 41090 | `c0917ad567fd4c83a061c2f4d4ce681292f9b3872a331740452be7cc6f370b48` |
 | `roles/og-role-customer-support-agent.jpg` | 1200×630 | 37433 | `501043599102de9c76a14f059447f5b477d201e57f515bd407b9a121f8865faf` |
-| `roles/og-role-lead-qualifier.jpg` | 1200×630 | 42742 | `e6a06d7dccabc372a1a54b83dba4464999238e7eb582b4191aa93999a174e067` |
+| `roles/og-role-lead-qualifier.jpg` | 1200×630 | 32102 | `743074211205b3806ffb2c525572c824fb62de04c4a79d6681bb417fcbfc590d` |
 | `roles/og-role-marketing-assistant.jpg` | 1200×630 | 43972 | `f75858b638ba62b8df25ef00a66278323cdc3701a5930a97ceab6bf95d4835fe` |
 | `roles/og-role-receptionist.jpg` | 1200×630 | 40578 | `f50c3b8b6bfd5800bb5a497e64ca29b9c8507f92553df0fab3b85f585be40a85` |
 | `roles/og-role-sales-consultant.jpg` | 1200×630 | 32640 | `bc0cea79481b04faf01789a479bdb5020589d24b1b0f0404a57797d80729ce46` |
