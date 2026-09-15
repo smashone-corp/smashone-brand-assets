@@ -286,7 +286,28 @@
     "size": 30,
     "color": "#B08930"
    },
-   "fill": "#FFFFFF"
+   "fill": "#FFFFFF",
+   "placed_frames_other": {
+    "16x9": {
+     "file": "chip-ai-presenter-16x9-topright.png",
+     "canvas": [
+      1920,
+      1080
+     ],
+     "x": 1396,
+     "y": 96
+    },
+    "1x1": {
+     "file": "chip-ai-presenter-1x1-topright.png",
+     "canvas": [
+      1080,
+      1080
+     ],
+     "x": 612,
+     "y": 96
+    }
+   },
+   "placed_frames_other_rule": "та же геометрия, что 9:16: отступ справа 72/1080 ширины холста и сверху 170/1920 высоты холста, пилюля 396×68 px при высоте кадра 1080 без масштаба; K0-24 editor z197 15.09.2026, генератор brand/scripts/work/k024_inserts.py i8 (video_overlay_kit.py этих строк не пишет — при его пересборке вернуть)"
   },
   "endcard": {
    "light": "endcard-9x16-light.png",
