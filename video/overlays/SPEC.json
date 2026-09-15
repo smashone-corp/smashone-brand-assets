@@ -41,27 +41,32 @@
   "lower_third": {
    "file": "lower-third-rene-9x16.png",
    "plate": {
-    "x": 72,
-    "y": 320,
-    "w": 718,
-    "h": 180,
-    "radius": 28,
+    "x": 776,
+    "y": 280,
+    "w": 250,
+    "h": 128,
+    "radius": 22,
     "fill": "#B08930"
    },
    "name": {
-    "x": 116,
-    "y": 368,
-    "size": 60,
+    "x": 800,
+    "y": 310,
+    "size": 40,
     "weight": 700,
     "color": "#1A1917"
    },
    "role": {
-    "x": 116,
-    "y": 420,
-    "size": 34,
+    "x": 800,
+    "y": 345,
+    "size": 16,
     "weight": 500,
-    "color": "#1A1917"
-   }
+    "color": "#1A1917",
+    "lines": [
+     "SmashOne AI",
+     "Appointment Coordinator"
+    ]
+   },
+   "plate_note": "узкая плашка справа от лица под чипом (11.09.2026); источник геометрии — kit_narrow_plate.py, не генератор кита"
   },
   "lower_third_sage": {
    "file": "lower-third-sage-9x16.png",
@@ -74,45 +79,52 @@
     "fill": "#B08930"
    },
    "name": {
-    "x": 116,
-    "y": 364,
-    "size": 60,
+    "x": 756,
+    "y": 314,
+    "size": 40,
     "weight": 700,
     "color": "#1A1917"
    },
    "role": {
-    "x": 116,
-    "y": 430,
-    "size": 34,
+    "x": 756,
+    "y": 359,
+    "size": 20,
     "weight": 500,
-    "color": "#1A1917"
+    "color": "#1A1917",
+    "lines": [
+     "SmashOne AI Video Maker"
+    ]
    },
    "plate_note": "узкая плашка справа от лица под чипом (11.09.2026); источник геометрии — kit_narrow_plate.py, не генератор кита"
   },
   "lower_third_avery": {
    "file": "lower-third-avery-9x16.png",
    "plate": {
-    "x": 72,
-    "y": 320,
-    "w": 560,
-    "h": 180,
-    "radius": 28,
+    "x": 732,
+    "y": 280,
+    "w": 304,
+    "h": 128,
+    "radius": 22,
     "fill": "#B08930"
    },
    "name": {
-    "x": 116,
-    "y": 364,
-    "size": 60,
+    "x": 756,
+    "y": 314,
+    "size": 40,
     "weight": 700,
     "color": "#1A1917"
    },
    "role": {
-    "x": 116,
-    "y": 430,
-    "size": 34,
+    "x": 756,
+    "y": 359,
+    "size": 20,
     "weight": 500,
-    "color": "#1A1917"
-   }
+    "color": "#1A1917",
+    "lines": [
+     "SmashOne AI Administrator"
+    ]
+   },
+   "plate_note": "узкая плашка справа от лица под чипом (11.09.2026); источник геометрии — kit_narrow_plate.py, не генератор кита"
   },
   "lower_third_jordan": {
    "file": "lower-third-jordan-9x16.png",
@@ -125,18 +137,21 @@
     "fill": "#B08930"
    },
    "name": {
-    "x": 116,
-    "y": 368,
-    "size": 60,
+    "x": 756,
+    "y": 317,
+    "size": 40,
     "weight": 700,
     "color": "#1A1917"
    },
    "role": {
-    "x": 116,
-    "y": 420,
-    "size": 34,
+    "x": 756,
+    "y": 352,
+    "size": 20,
     "weight": 500,
-    "color": "#1A1917"
+    "color": "#1A1917",
+    "lines": [
+     "SmashOne AI Receptionist"
+    ]
    },
    "plate_note": "узкая плашка справа от лица под чипом (11.09.2026); источник геометрии — kit_narrow_plate.py, не генератор кита"
   },
@@ -151,18 +166,21 @@
     "fill": "#B08930"
    },
    "name": {
-    "x": 116,
-    "y": 372,
-    "size": 60,
+    "x": 756,
+    "y": 319,
+    "size": 40,
     "weight": 700,
     "color": "#1A1917"
    },
    "role": {
-    "x": 116,
-    "y": 424,
-    "size": 34,
+    "x": 756,
+    "y": 354,
+    "size": 20,
     "weight": 500,
-    "color": "#1A1917"
+    "color": "#1A1917",
+    "lines": [
+     "SmashOne AI Sales Consultant"
+    ]
    },
    "plate_note": "узкая плашка справа от лица под чипом (11.09.2026); источник геометрии — kit_narrow_plate.py, не генератор кита"
   },
@@ -177,18 +195,21 @@
     "fill": "#B08930"
    },
    "name": {
-    "x": 116,
-    "y": 370,
-    "size": 60,
+    "x": 769,
+    "y": 318,
+    "size": 40,
     "weight": 700,
     "color": "#1A1917"
    },
    "role": {
-    "x": 116,
-    "y": 425,
-    "size": 34,
+    "x": 769,
+    "y": 355,
+    "size": 18,
     "weight": 500,
-    "color": "#1A1917"
+    "color": "#1A1917",
+    "lines": [
+     "SmashOne AI Business Advisor"
+    ]
    },
    "plate_note": "узкая плашка справа от лица под чипом (11.09.2026); источник геометрии — kit_narrow_plate.py, не генератор кита"
   },
@@ -228,18 +249,22 @@
     "fill": "#B08930"
    },
    "name": {
-    "x": 116,
-    "y": 368,
-    "size": 60,
+    "x": 800,
+    "y": 310,
+    "size": 40,
     "weight": 700,
     "color": "#1A1917"
    },
    "role": {
-    "x": 116,
-    "y": 420,
-    "size": 34,
+    "x": 800,
+    "y": 345,
+    "size": 16,
     "weight": 500,
-    "color": "#1A1917"
+    "color": "#1A1917",
+    "lines": [
+     "SmashOne AI",
+     "Appointment Coordinator"
+    ]
    },
    "plate_note": "узкая плашка справа от лица под чипом (11.09.2026); источник геометрии — kit_narrow_plate.py, не генератор кита"
   },
@@ -307,7 +332,7 @@
      "y": 96
     }
    },
-   "placed_frames_other_rule": "та же геометрия, что 9:16: отступ справа 72/1080 ширины холста и сверху 170/1920 высоты холста, пилюля 396×68 px при высоте кадра 1080 без масштаба; K0-24 editor z197 15.09.2026, генератор brand/scripts/work/k024_inserts.py i8 (video_overlay_kit.py этих строк не пишет — при его пересборке вернуть)"
+   "placed_frames_other_rule": "та же геометрия, что 9:16: отступ справа 72/1080 ширины холста и сверху 170/1920 высоты холста, пилюля 396×68 px при высоте кадра 1080 без масштаба; K0-24 editor z197 15.09.2026, первым поставил Дон (коммит 20f816a, brand/scripts/work/k024_inserts.py i8) — с 15.09.2026 эти кадры и строки пишет сам video_overlay_kit.py, байты сверены с файлами Дона по sha256"
   },
   "endcard": {
    "light": "endcard-9x16-light.png",
@@ -351,12 +376,14 @@
    },
    "name": {
     "x": 756,
+    "y": 317,
     "size": 40,
     "weight": 700,
     "color": "#1A1917"
    },
    "role": {
     "x": 756,
+    "y": 352,
     "size": 20,
     "weight": 500,
     "color": "#1A1917",
@@ -378,12 +405,14 @@
    },
    "name": {
     "x": 764,
+    "y": 302,
     "size": 40,
     "weight": 700,
     "color": "#1A1917"
    },
    "role": {
     "x": 764,
+    "y": 347,
     "size": 20,
     "weight": 500,
     "color": "#1A1917",

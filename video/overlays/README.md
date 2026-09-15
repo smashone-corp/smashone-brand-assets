@@ -23,16 +23,21 @@ Raw-база: `https://raw.githubusercontent.com/smashone-corp/smashone-brand-as
 ## 1. Нижняя плашка имени/роли
 - `lower-third-sloane-9x16.png` — «Sloane» / «SmashOne AI SMM Manager».
 - `lower-third-blank-9x16.png` — та же плашка без текста (ширина 560): Дон подставляет имя и роль другого героя.
-- Геометрия (из `SPEC.json`): плашка x=72, y=1476, h=180, золото `#B08930`, радиус 28; ширина = текст + 2×44, минимум 560.
+- Геометрия ШИРОКОЙ плашки (из `SPEC.json`): x=72, **y=320**, h=180, золото `#B08930`, радиус 28; ширина = текст + 2×44, минимум 560.
   Имя — Onest **700**, 60 px, `#1A1917`, x=116; роль — Onest **500**, 34 px, `#1A1917`, под именем с зазором 10; обе строки
-  центрированы по вертикали внутри плашки.
+  центрированы по вертикали внутри плашки. ⚰️ Прежнее `y=1476` (низ кадра) — мёртвое значение: плашка переехала вверх
+  10.09.2026 (нижнюю зону Shorts закрывают автосубтитры), не восстанавливать.
+- УЗКАЯ плашка справа от лица, под чипом (11.09.2026, слово владельца «почему нужно поставить так, чтобы перегородить лицо?»):
+  y=280, h=128, радиус 22, поле 24; имя Onest **700** 40 px, роль Onest **500** 16–20 px, роль допускается двумя строками.
+  x и кегль роли — СВОИ У КАЖДОГО героя (лицо у каждого своё), точные числа каждой плашки — в её строке `SPEC.json`.
+  Так собраны Sage, Avery, Jordan, Blake, Miles, Rene, Reese, Piper; широкими остаются Sloane, Ruby и `blank`.
 - Своё имя/роль ffmpeg-ом поверх пустой плашки (ширина 560 хватает на имя до ~14 знаков и роль до ~26 знаков при этих кеглях;
   длиннее — пересобрать генератором с `--slug --name --role`):
 ```
 ffmpeg -i clip.mp4 -i lower-third-blank-9x16.png -filter_complex "\
 [0][1]overlay=0:0,\
-drawtext=fontfile=fonts/Onest-Variable.ttf:text='Sage':fontsize=60:fontcolor=0x1A1917:x=116:y=1476+(180-(60+10+34))/2,\
-drawtext=fontfile=fonts/Onest-Variable.ttf:text='SmashOne AI Video Maker':fontsize=34:fontcolor=0x1A1917:x=116:y=1476+(180-(60+10+34))/2+70" out.mp4
+drawtext=fontfile=fonts/Onest-Variable.ttf:text='Sage':fontsize=60:fontcolor=0x1A1917:x=116:y=320+(180-(60+10+34))/2,\
+drawtext=fontfile=fonts/Onest-Variable.ttf:text='SmashOne AI Video Maker':fontsize=34:fontcolor=0x1A1917:x=116:y=320+(180-(60+10+34))/2+70" out.mp4
 ```
 (`drawtext` не умеет вес variable-шрифта — для точного 700/500 лучше пересобрать PNG генератором; сниппет — на случай, когда нужно быстро.)
 
@@ -41,7 +46,7 @@ drawtext=fontfile=fonts/Onest-Variable.ttf:text='SmashOne AI Video Maker':fontsi
   тот же стиль, что бейдж «AI» аватаров v2 (29.08).
 - `chip-ai-presenter-9x16-topright.png` — уже поставлен в кадр: 72 px от правого края, **170 px сверху** (≈9% кадра). Класть `overlay=0:0`.
   ⚰️ Прежние 96 px (v1, 03.09 утро) попадали в верхний интерфейсный пояс Instagram/TikTok — чип закрывали иконки (нашёл прибор Дона). sha256 текущего файла: `9712697c8f8c02cace78d7ed60e57e730739d9b9d558e433fce74c2361f591f4`.
-- `chip-ai-presenter-16x9-topright.png` (1920×1080, x=1396 y=96) и `chip-ai-presenter-1x1-topright.png` (1080×1080, x=612 y=96) — та же геометрия, что 9:16: отступ справа 72/1080 ширины, сверху 170/1920 высоты, пилюля 396×68 без масштаба. Класть `overlay=0:0`. Генератор — `SMM-Hub/brand/scripts/work/k024_inserts.py i8` (К0-24, 15.09.2026); `video_overlay_kit.py` этих файлов и строк SPEC не пишет.
+- `chip-ai-presenter-16x9-topright.png` (1920×1080, x=1396 y=96) и `chip-ai-presenter-1x1-topright.png` (1080×1080, x=612 y=96) — та же геометрия, что 9:16: отступ справа 72/1080 ширины, сверху 170/1920 высоты, пилюля 396×68 без масштаба. Класть `overlay=0:0`. Первым поставил Дон (`SMM-Hub/brand/scripts/work/k024_inserts.py i8`, К0-24, 15.09.2026); с 15.09.2026 оба кадра и их строки в `SPEC.json` пересобирает сам `video_overlay_kit.py` — байты сверены с файлами Дона по sha256, пересборка кита их больше не теряет.
 - Показывать весь ролик или первые 3 с — решение монтажа; убирать нельзя (маркировка ИИ-ведущего).
 
 ## 3. Финальная карточка (2–3 с)
