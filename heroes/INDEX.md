@@ -121,14 +121,30 @@ sage-art-v2 (+ art-profile-v2) · sloane-art-v1. 🔴 **Слоан снимал�
 из чата бралась другой рамкой и с этими числами не сравнивается.
 
 **`<slug>/film/film-<slug>-still.webp` — кадр фильма роли, 720×1280**, постер ролика на `smashone.us/blog/films/`.
-🔴 **Сверено 10.09.2026: банк и сайт — один файл байт-в-байт, sha совпали по всем четырём.**
+🔴 **Сверено 10.09.2026: банк и сайт — один файл байт-в-байт, sha совпали по четырём первым.**
+🔄 **Таблица досчитана 15.09.2026 21:2x (Мира): sha Эйвери был устаревшим** (`f402a2b950b7` — кадр
+снятой 60-секундной нарезки; в банке с 13.09 лежит `8b0313d1a5aa` из коммита `1c37640`), **а строк
+Блейка, Майлза и Пайпер в таблице не было вовсе** — файлы в банке лежали, указатель о них молчал.
+sha всех семи пересчитаны по байтам банка в этот час.
 
-| Герой | Файл банка | sha256 (12) | Копия сайта (`web/public/assets/brand/photography/library/blog-us/`) | Коммит |
-|---|---|---|---|---|
-| Sloane | `sloane/film/film-sloane-still.webp` | `cbc33a99b4e0` | `film-sloane-still.webp` — sha совпал | `1f9bb91` (PR #3646) |
-| Jordan | `jordan/film/film-jordan-still.webp` | `4bd474efb2cf` | `film-jordan-still.webp` — sha совпал | `0cc0bd4` (PR #3647) |
-| Sage | `sage/film/film-sage-still.webp` | `ca110bb124ba` | `film-sage-still.webp` — sha совпал | `0cc0bd4` (PR #3647) |
-| Avery | `avery/film/film-avery-still.webp` | `f402a2b950b7` | `film-avery-still.webp` — sha совпал | `0cc0bd4` (PR #3647) |
+| Герой | Файл банка | sha256 (12) | Байт | Копия сайта (`web/public/assets/brand/photography/library/blog-us/`) | Коммит |
+|---|---|---|---|---|---|
+| Sloane | `sloane/film/film-sloane-still.webp` | `cbc33a99b4e0` | 32 520 | `film-sloane-still.webp` — sha совпал | `1f9bb91` (PR #3646) |
+| Jordan | `jordan/film/film-jordan-still.webp` | `4bd474efb2cf` | 29 410 | `film-jordan-still.webp` — sha совпал | `0cc0bd4` (PR #3647) |
+| Sage | `sage/film/film-sage-still.webp` | `ca110bb124ba` | 43 464 | `film-sage-still.webp` — sha совпал | `0cc0bd4` (PR #3647) |
+| Avery | `avery/film/film-avery-still.webp` | `8b0313d1a5aa` | 26 384 | `film-avery-still.webp` — те же байты в PR #3900 (страница закрыта до YouTube id) | `1c37640` (13.09, заменил кадр 60-секундной нарезки) |
+| Blake | `blake/film/film-blake-still.webp` | `316fae22a79d` | 53 582 | `film-blake-still.webp` — те же байты в PR #3900 (страница закрыта до YouTube id) | `1c37640` (13.09) |
+| Miles | `miles/film/film-miles-still.webp` | `22ef46a7ff6d` | 36 852 | `film-miles-still.webp` — sha совпал | `4c1d9a2` |
+| Piper | `piper/film/film-piper-still.webp` | `4c74334ab644` | 77 838 | **нет** — PR страницы Пайпер ещё не собран (ждёт «да» владельца на фильм) | этот коммит (15.09 21:2x) |
+
+**Piper — происхождение кадра (15.09.2026, наряд `DISP-MIRA-PIPER-PAGE-1`).** frame 0 (t = 0.000,
+отрезок s01) мастера `Piper_MarketingAssistant_SelfPresentation_EN_143s_x1.1.mp4`
+(sha256 `309dc1ec48bbdedf20bab2f300c223c45196219a4bf259ac1965aafb1a466217`, 143.168 с = 2:23,
+720×1280, 24 fps — Дон, `SHOW-2026-09-15/piper/`). Плашки имени в кадре нет (её окно в фильме
+1.82–5.45 с), чип «AI-generated presenter» есть — как у Блейка. Кодирование
+`design/scripts/webp_stage.py` (q90, потолок 160 КБ). 🔴 **Слова владельца на фильм на этот час
+нет**: кадр лежит в банке заранее, чтобы страница собиралась одним PR в тот же час, когда «да»
+будет сказано; до «да» страница не публикуется.
 
 ## 🧾 ОСТАТКИ И РАСХОЖДЕНИЯ — ОПИСАНЫ, НЕ УДАЛЕНЫ (сверка 10.09.2026)
 
