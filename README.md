@@ -136,6 +136,10 @@ done < /tmp/refs.txt
 Остальные 11 пар — наследие переездов (`heroes/<slug>/anchor/` ↔ `photography/`,
 `logos/smashone-corp/` ↔ `logos/smashone-logo/`, `icons/canonical.svg` ↔ `icons/docs/canonical.svg`
 и т. п.). Удалять их без проверки потребителей нельзя — сначала опрос raw-ссылок по процедуре выше.
+**Опрос потребителей проведён 15.09.2026 (Мира):** по каждой копии — `git grep` полного пути в Hub, у Джея, в банке и в карте путей
+сайта. У всех 11 пар ссылки есть хотя бы с одной стороны: удаление любой копии = правка чужих ссылок. Кандидаты, если понадобится:
+`heroes/cole/anchor/cole-portrait.png` (1 ссылка) и `logos/smashone-corp/smashone-logo.svg` (4). Антикварные кадры в
+`heroes/margaret-ellison/anchor/` — снятый HCA, решение вместе со снятыми фото сайта. Разбор — Hub `design/.claude/tasks/_TO_HUB-2026-09-15-1925-bank-dups-survey.md`.
 
 ---
 
