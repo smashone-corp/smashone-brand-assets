@@ -1,0 +1,274 @@
+{
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "ho06-florist-frame-C.jpg",
+  "sha8": "a2f4b9f4",
+  "upscale": 1.406
+ },
+ "built": "2026-09-18T16:53:42Z",
+ "keep_clear_bboxes": {
+  "парящий букет": [
+   477,
+   440,
+   1055,
+   980
+  ],
+  "луч света": [
+   578,
+   0,
+   955,
+   477
+  ],
+  "лицо и ладони у щёк": [
+   213,
+   892,
+   440,
+   1130
+  ],
+  "героиня": [
+   138,
+   1080,
+   502,
+   1758
+  ]
+ },
+ "handwriting_font": "Caveat",
+ "dark": true,
+ "haze": {
+  "png": "layers/haze.png",
+  "top": 0,
+  "dense_end": 656,
+  "fade_px": 220,
+  "alpha": 0.9,
+  "clear_until": null,
+  "dense_from": null,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 0,
+   "y": 0,
+   "w": 1080,
+   "h": 863
+  },
+  "max_alpha_step": 2
+ },
+ "logo": {
+  "png": "layers/logo.png",
+  "mark_px": 160,
+  "word": null,
+  "x": 72,
+  "y": 120,
+  "appear": 0.0,
+  "lives_s": 10,
+  "dissolve": null,
+  "bbox_on_poster": {
+   "x": 72,
+   "y": 120,
+   "w": 188,
+   "h": 188
+  },
+  "background_under_mark": [
+   247,
+   250,
+   249
+  ],
+  "mark_backdrop": "светлая подложка внутри PNG",
+  "contrast_mark_vs_background": 3.09
+ },
+ "headline": {
+  "png": "layers/headline.png",
+  "lines": [
+   "My AI employee",
+   "made my first commercial."
+  ],
+  "x": 72,
+  "y": 320,
+  "size_px": 73,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 75,
+   "y": 330,
+   "w": 855,
+   "h": 147
+  },
+  "contrast_min": 10.17
+ },
+ "subline": {
+  "png": "layers/subline.png",
+  "text": "From one photo. With music.",
+  "x": 76,
+  "y": 565,
+  "size_px": 46,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 79,
+   "y": 572,
+   "w": 624,
+   "h": 45
+  },
+  "gap_to_headline_px": 95,
+  "contrast_min": 8.43
+ },
+ "plate": {
+  "png": "layers/plate.png",
+  "text": "Florist · AI-generated scene",
+  "x": 36,
+  "y": 1790,
+  "appear": 0.0,
+  "lives_s": 10,
+  "bbox_on_poster": {
+   "x": 36,
+   "y": 1790,
+   "w": 407,
+   "h": 53
+  }
+ },
+ "slips": [
+  {
+   "id": "s1",
+   "order": 1,
+   "text": "1 photo → / 1 video",
+   "png": "layers/s1.png",
+   "x": 760,
+   "y": 1010,
+   "w": 280,
+   "h": 130,
+   "rotation_deg": 5,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 721,
+    "y": 981,
+    "w": 356,
+    "h": 220
+   },
+   "back_png": [
+    "layers/s1-back-es.png",
+    "layers/s1-back-fr.png",
+    "layers/s1-back-ru.png"
+   ],
+   "back_text": {
+    "es": "1 foto → / 1 video",
+    "fr": "1 photo → / 1 vidéo",
+    "ru": "1 фото → / 1 видео"
+   },
+   "back_font_size_px": {
+    "es": [
+     39,
+     34
+    ],
+    "fr": [
+     39,
+     34
+    ],
+    "ru": [
+     39,
+     34
+    ]
+   },
+   "back_langs": [
+    "es",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "s2",
+   "order": 2,
+   "text": "Posted ✓",
+   "png": "layers/s2.png",
+   "x": 540,
+   "y": 1650,
+   "w": 220,
+   "h": 110,
+   "rotation_deg": -5,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 504,
+    "y": 1624,
+    "w": 294,
+    "h": 194
+   },
+   "back_png": [
+    "layers/s2-back-es.png",
+    "layers/s2-back-fr.png",
+    "layers/s2-back-ru.png"
+   ],
+   "back_text": {
+    "es": "Publicado ✓",
+    "fr": "Publié ✓",
+    "ru": "Выложено ✓"
+   },
+   "back_font_size_px": {
+    "es": [
+     33
+    ],
+    "fr": [
+     33
+    ],
+    "ru": [
+     32
+    ]
+   },
+   "back_langs": [
+    "es",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "s3",
+   "order": 3,
+   "text": "“Is that my shop?!”",
+   "png": "layers/s3.png",
+   "x": 700,
+   "y": 1320,
+   "w": 320,
+   "h": 130,
+   "rotation_deg": 4,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 661,
+    "y": 1292,
+    "w": 395,
+    "h": 218
+   },
+   "back_png": [
+    "layers/s3-back-es.png",
+    "layers/s3-back-fr.png",
+    "layers/s3-back-ru.png"
+   ],
+   "back_text": {
+    "es": "“¡¿Esa es mi tienda?!”",
+    "fr": "“C’est ma boutique ?!”",
+    "ru": "“Это мой магазин?!”"
+   },
+   "back_font_size_px": {
+    "es": [
+     39
+    ],
+    "fr": [
+     39
+    ],
+    "ru": [
+     39
+    ]
+   },
+   "back_langs": [
+    "es",
+    "fr",
+    "ru"
+   ]
+  }
+ ]
+}

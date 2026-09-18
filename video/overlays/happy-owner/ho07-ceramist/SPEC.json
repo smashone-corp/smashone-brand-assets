@@ -1,0 +1,286 @@
+{
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "ho07-ceramist-frame-C.jpg",
+  "sha8": "2e32747c",
+  "upscale": 1.406
+ },
+ "built": "2026-09-18T16:53:43Z",
+ "keep_clear_bboxes": {
+  "ряд коробок и будущая гирлянда": [
+   0,
+   640,
+   1080,
+   829
+  ],
+  "поднятая левая рука": [
+   176,
+   703,
+   352,
+   904
+  ],
+  "поднятая правая рука": [
+   804,
+   703,
+   980,
+   904
+  ],
+  "лицо": [
+   490,
+   829,
+   728,
+   1080
+  ],
+  "круг с чашей": [
+   502,
+   1507,
+   829,
+   1758
+  ]
+ },
+ "handwriting_font": "Caveat",
+ "dark": false,
+ "haze": {
+  "png": "layers/haze.png",
+  "top": 0,
+  "dense_end": 636,
+  "fade_px": 220,
+  "alpha": 0.9,
+  "clear_until": null,
+  "dense_from": null,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 0,
+   "y": 0,
+   "w": 1080,
+   "h": 843
+  },
+  "max_alpha_step": 3
+ },
+ "logo": {
+  "png": "layers/logo.png",
+  "mark_px": 160,
+  "word": null,
+  "x": 72,
+  "y": 120,
+  "appear": 0.0,
+  "lives_s": 10,
+  "dissolve": null,
+  "bbox_on_poster": {
+   "x": 95,
+   "y": 140,
+   "w": 117,
+   "h": 124
+  },
+  "background_under_mark": [
+   250,
+   250,
+   249
+  ],
+  "mark_backdrop": "кадр вокруг знака",
+  "contrast_mark_vs_background": 3.11
+ },
+ "headline": {
+  "png": "layers/headline.png",
+  "lines": [
+   "My AI employee",
+   "sold while I worked."
+  ],
+  "x": 72,
+  "y": 300,
+  "size_px": 91,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 73,
+   "y": 312,
+   "w": 812,
+   "h": 163
+  },
+  "contrast_min": 18.97
+ },
+ "subline": {
+  "png": "layers/subline.png",
+  "text": "Three pieces. My exact prices.",
+  "x": 76,
+  "y": 545,
+  "size_px": 46,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 77,
+   "y": 552,
+   "w": 672,
+   "h": 45
+  },
+  "gap_to_headline_px": 77,
+  "contrast_min": 19.13
+ },
+ "plate": {
+  "png": "layers/plate.png",
+  "text": "Ceramics studio owner · AI-generated scene",
+  "x": 36,
+  "y": 1790,
+  "appear": 0.0,
+  "lives_s": 10,
+  "bbox_on_poster": {
+   "x": 36,
+   "y": 1790,
+   "w": 626,
+   "h": 53
+  }
+ },
+ "slips": [
+  {
+   "id": "s1",
+   "order": 1,
+   "text": "Blue mug — $32 / Sold ✓",
+   "png": "layers/s1.png",
+   "x": 40,
+   "y": 960,
+   "w": 300,
+   "h": 140,
+   "rotation_deg": -5,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 3,
+    "y": 930,
+    "w": 377,
+    "h": 232
+   },
+   "back_png": [
+    "layers/s1-back-es.png",
+    "layers/s1-back-fr.png",
+    "layers/s1-back-ru.png"
+   ],
+   "back_text": {
+    "es": "Taza azul — $32 / Vendida ✓",
+    "fr": "Mug bleu — $32 / Vendu ✓",
+    "ru": "Синяя кружка — $32 / Продана ✓"
+   },
+   "back_font_size_px": {
+    "es": [
+     42,
+     36
+    ],
+    "fr": [
+     42,
+     36
+    ],
+    "ru": [
+     38,
+     36
+    ]
+   },
+   "back_langs": [
+    "es",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "s2",
+   "order": 2,
+   "text": "Vase — $58 / Sold ✓",
+   "png": "layers/s2.png",
+   "x": 760,
+   "y": 940,
+   "w": 300,
+   "h": 140,
+   "rotation_deg": 6,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 719,
+    "y": 908,
+    "w": 361,
+    "h": 235
+   },
+   "back_png": [
+    "layers/s2-back-es.png",
+    "layers/s2-back-fr.png",
+    "layers/s2-back-ru.png"
+   ],
+   "back_text": {
+    "es": "Jarrón — $58 / Vendido ✓",
+    "fr": "Vase — $58 / Vendu ✓",
+    "ru": "Ваза — $58 / Продана ✓"
+   },
+   "back_font_size_px": {
+    "es": [
+     42,
+     36
+    ],
+    "fr": [
+     42,
+     36
+    ],
+    "ru": [
+     38,
+     36
+    ]
+   },
+   "back_langs": [
+    "es",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "s3",
+   "order": 3,
+   "text": "Bowl set — $95 / Sold ✓",
+   "png": "layers/s3.png",
+   "x": 50,
+   "y": 1160,
+   "w": 300,
+   "h": 140,
+   "rotation_deg": 3,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 12,
+    "y": 1134,
+    "w": 375,
+    "h": 223
+   },
+   "back_png": [
+    "layers/s3-back-es.png",
+    "layers/s3-back-fr.png",
+    "layers/s3-back-ru.png"
+   ],
+   "back_text": {
+    "es": "Juego de tazones — $95 / Vendido ✓",
+    "fr": "Lot de bols — $95 / Vendu ✓",
+    "ru": "Набор мисок — $95 / Продан ✓"
+   },
+   "back_font_size_px": {
+    "es": [
+     42,
+     36
+    ],
+    "fr": [
+     42,
+     36
+    ],
+    "ru": [
+     38,
+     36
+    ]
+   },
+   "back_langs": [
+    "es",
+    "fr",
+    "ru"
+   ]
+  }
+ ]
+}

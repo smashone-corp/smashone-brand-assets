@@ -1,0 +1,286 @@
+{
+ "artboard": "1080x1920",
+ "source_frame": "frame-A-1080.jpg",
+ "face_bbox": [
+  450,
+  690,
+  630,
+  960
+ ],
+ "hand_bboxes": [
+  [
+   13,
+   536,
+   160,
+   675
+  ],
+  [
+   920,
+   540,
+   1055,
+   675
+  ]
+ ],
+ "built": "2026-09-18T15:34:43Z",
+ "haze": {
+  "png": "layers/haze.png",
+  "what": "soft light wash under the headline block",
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "dissolve_move": "fade out",
+  "bbox_on_poster": {
+   "x": 0,
+   "y": 0,
+   "w": 1080,
+   "h": 823
+  },
+  "max_row_step_poster_x540": 31,
+  "max_row_step_raw_frame_x540": 64,
+  "max_alpha_step": 3
+ },
+ "headline": {
+  "png": "layers/headline.png",
+  "text": "My AI employee booked my whole day.",
+  "lines": [
+   "My AI employee",
+   "booked my whole day."
+  ],
+  "x": 72,
+  "y": 300,
+  "w": 936,
+  "h": 250,
+  "font": "Onest 800",
+  "size_px": 91,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "dissolve_move": "up 40px, fade out",
+  "contrast_min": 16.42,
+  "darkest_bg_px": [
+   233,
+   234,
+   234
+  ],
+  "bbox_on_poster": {
+   "x": 76,
+   "y": 312,
+   "w": 927,
+   "h": 184
+  }
+ },
+ "subline": {
+  "png": "layers/subline.png",
+  "text": "Every client — in her own language.",
+  "x": 76,
+  "y": 545,
+  "w": 936,
+  "h": 60,
+  "font": "Inter 500",
+  "size_px": 46,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "dissolve_move": "up 40px, fade out",
+  "contrast_min": 16.28,
+  "darkest_bg_px": [
+   232,
+   233,
+   233
+  ],
+  "bbox_on_poster": {
+   "x": 79,
+   "y": 552,
+   "w": 781,
+   "h": 45
+  },
+  "gap_to_headline_px": 56
+ },
+ "logo": {
+  "png": "layers/logo.png",
+  "mark_px": 160,
+  "word": null,
+  "x": 72,
+  "y": 120,
+  "appear": 0.0,
+  "lives_s": 10,
+  "dissolve": null,
+  "bbox_on_poster": {
+   "x": 95,
+   "y": 140,
+   "w": 117,
+   "h": 124
+  },
+  "contrast_mark_vs_darkest": 3.07,
+  "contrast_mark_vs_lightest": 3.22
+ },
+ "plate": {
+  "png": "layers/plate.png",
+  "text": "Nail studio owner · AI-generated scene",
+  "x": 36,
+  "y": 1790,
+  "appear": 0.0,
+  "lives_s": 10,
+  "bbox_on_poster": {
+   "x": 36,
+   "y": 1790,
+   "w": 552,
+   "h": 53
+  }
+ },
+ "slips": [
+  {
+   "id": "s1",
+   "text": "Maria 10:00",
+   "png": "layers/s1.png",
+   "x": 40,
+   "y": 712,
+   "w": 290,
+   "h": 133,
+   "rotation_deg": -8,
+   "depth": "back",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 0,
+    "y": 675,
+    "w": 376,
+    "h": 243
+   },
+   "back_png": "layers/s1-back.png",
+   "back_text": "¡Hola!",
+   "back_language": "испанский",
+   "back_font_size_px": 85
+  },
+  {
+   "id": "s2",
+   "text": "Linh 11:30",
+   "png": "layers/s2.png",
+   "x": 760,
+   "y": 712,
+   "w": 290,
+   "h": 133,
+   "rotation_deg": 7,
+   "depth": "back",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 715,
+    "y": 677,
+    "w": 365,
+    "h": 239
+   },
+   "back_png": "layers/s2-back.png",
+   "back_text": "Xin chào!",
+   "back_language": "вьетнамский",
+   "back_font_size_px": 51
+  },
+  {
+   "id": "s3",
+   "text": "Olga 1:00",
+   "png": "layers/s3.png",
+   "x": 30,
+   "y": 906,
+   "w": 250,
+   "h": 115,
+   "rotation_deg": 6,
+   "depth": "back",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 0,
+    "y": 874,
+    "w": 320,
+    "h": 214
+   },
+   "back_png": "layers/s3-back.png",
+   "back_text": "Привет!",
+   "back_language": "русский",
+   "back_font_size_px": 51
+  },
+  {
+   "id": "s4",
+   "text": "Sofia 2:30",
+   "png": "layers/s4.png",
+   "x": 780,
+   "y": 906,
+   "w": 280,
+   "h": 129,
+   "rotation_deg": -6,
+   "depth": "back",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 739,
+    "y": 873,
+    "w": 341,
+    "h": 231
+   },
+   "back_png": "layers/s4-back.png",
+   "back_text": "Olá!",
+   "back_language": "португальский",
+   "back_font_size_px": 93
+  },
+  {
+   "id": "s5",
+   "text": "Nina 4:15",
+   "png": "layers/s5.png",
+   "x": 700,
+   "y": 1090,
+   "w": 240,
+   "h": 110,
+   "rotation_deg": -8,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 660,
+    "y": 1056,
+    "w": 325,
+    "h": 214
+   },
+   "back_png": "layers/s5-back.png",
+   "back_text": "Bonjour !",
+   "back_language": "французский",
+   "back_font_size_px": 45
+  },
+  {
+   "id": "s6",
+   "text": "Booked ✓",
+   "png": "layers/s6.png",
+   "x": 150,
+   "y": 1130,
+   "w": 250,
+   "h": 115,
+   "rotation_deg": 8,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 105,
+    "y": 1095,
+    "w": 335,
+    "h": 220
+   }
+  },
+  {
+   "id": "s7",
+   "text": "Booked ✓",
+   "png": "layers/s7.png",
+   "x": 800,
+   "y": 1330,
+   "w": 240,
+   "h": 110,
+   "rotation_deg": -5,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 760,
+    "y": 1301,
+    "w": 320,
+    "h": 204
+   }
+  }
+ ]
+}

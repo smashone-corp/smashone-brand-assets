@@ -1,0 +1,285 @@
+{
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "ho05-autoshop-frame-A.jpg",
+  "sha8": "853ef0d3",
+  "upscale": 1.406
+ },
+ "built": "2026-09-18T16:10:51Z",
+ "keep_clear_bboxes": {
+  "луна со звёздами": [
+   486,
+   270,
+   621,
+   405
+  ],
+  "поднятая рука": [
+   171,
+   504,
+   414,
+   972
+  ],
+  "лицо": [
+   414,
+   810,
+   648,
+   1116
+  ],
+  "кружка в руке": [
+   495,
+   1260,
+   648,
+   1404
+  ],
+  "зона отъезда камеры справа внизу": [
+   880,
+   1250,
+   1080,
+   1500
+  ]
+ },
+ "handwriting_font": "Caveat",
+ "haze": {
+  "png": "layers/haze.png",
+  "top": 0,
+  "dense_end": 766,
+  "fade_px": 220,
+  "alpha": 0.9,
+  "clear_until": 408,
+  "dense_from": 524,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 0,
+   "y": 0,
+   "w": 1080,
+   "h": 973
+  },
+  "max_alpha_step": 3
+ },
+ "logo": {
+  "png": "layers/logo.png",
+  "mark_px": 160,
+  "word": null,
+  "x": 72,
+  "y": 120,
+  "appear": 0.0,
+  "lives_s": 10,
+  "dissolve": null,
+  "bbox_on_poster": {
+   "x": 72,
+   "y": 120,
+   "w": 188,
+   "h": 188
+  },
+  "background_under_mark": [
+   247,
+   250,
+   249
+  ],
+  "mark_backdrop": "светлая подложка внутри PNG",
+  "contrast_mark_vs_background": 3.09
+ },
+ "headline": {
+  "png": "layers/headline.png",
+  "lines": [
+   "My AI employee",
+   "works while I sleep."
+  ],
+  "x": 72,
+  "y": 430,
+  "size_px": 91,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 71,
+   "y": 442,
+   "w": 800,
+   "h": 180
+  },
+  "contrast_min": 13.55
+ },
+ "subline": {
+  "png": "layers/subline.png",
+  "text": "Every night message — answered.",
+  "x": 76,
+  "y": 675,
+  "size_px": 46,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 79,
+   "y": 682,
+   "w": 754,
+   "h": 45
+  },
+  "gap_to_headline_px": 60,
+  "contrast_min": 16.77
+ },
+ "plate": {
+  "png": "layers/plate.png",
+  "text": "Auto shop owner · AI-generated scene",
+  "x": 36,
+  "y": 1790,
+  "appear": 0.0,
+  "lives_s": 10,
+  "bbox_on_poster": {
+   "x": 36,
+   "y": 1790,
+   "w": 547,
+   "h": 53
+  }
+ },
+ "slips": [
+  {
+   "id": "s1",
+   "order": 1,
+   "text": "11:40 PM — brake check? / Booked ✓",
+   "png": "layers/s1.png",
+   "x": 30,
+   "y": 1015,
+   "w": 320,
+   "h": 140,
+   "rotation_deg": -5,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 0,
+    "y": 984,
+    "w": 390,
+    "h": 233
+   },
+   "back_png": [
+    "layers/s1-back-es.png",
+    "layers/s1-back-fr.png",
+    "layers/s1-back-ru.png"
+   ],
+   "back_text": {
+    "es": "11:40 PM — ¿revisar frenos? / Reservado ✓",
+    "fr": "23:40 — contrôle des freins ? / Réservé ✓",
+    "ru": "23:40 — тормоза? / Записано ✓"
+   },
+   "back_font_size_px": {
+    "es": [
+     41,
+     36
+    ],
+    "fr": [
+     38,
+     36
+    ],
+    "ru": [
+     33,
+     36
+    ]
+   },
+   "back_langs": [
+    "es",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "s2",
+   "order": 2,
+   "text": "1:15 AM — oil change? / Booked ✓",
+   "png": "layers/s2.png",
+   "x": 40,
+   "y": 1205,
+   "w": 320,
+   "h": 140,
+   "rotation_deg": 4,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 1,
+    "y": 1177,
+    "w": 396,
+    "h": 228
+   },
+   "back_png": [
+    "layers/s2-back-es.png",
+    "layers/s2-back-fr.png",
+    "layers/s2-back-ru.png"
+   ],
+   "back_text": {
+    "es": "1:15 AM — ¿cambio de aceite? / Reservado ✓",
+    "fr": "01:15 — vidange ? / Réservé ✓",
+    "ru": "01:15 — замена масла? / Записано ✓"
+   },
+   "back_font_size_px": {
+    "es": [
+     41,
+     36
+    ],
+    "fr": [
+     38,
+     36
+    ],
+    "ru": [
+     33,
+     36
+    ]
+   },
+   "back_langs": [
+    "es",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "s3",
+   "order": 3,
+   "text": "5:50 AM — tire swap? / Booked ✓",
+   "png": "layers/s3.png",
+   "x": 30,
+   "y": 1400,
+   "w": 320,
+   "h": 140,
+   "rotation_deg": -3,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 0,
+    "y": 1374,
+    "w": 388,
+    "h": 224
+   },
+   "back_png": [
+    "layers/s3-back-es.png",
+    "layers/s3-back-fr.png",
+    "layers/s3-back-ru.png"
+   ],
+   "back_text": {
+    "es": "5:50 AM — ¿cambio de llantas? / Reservado ✓",
+    "fr": "05:50 — changement de pneus ? / Réservé ✓",
+    "ru": "05:50 — переобуть шины? / Записано ✓"
+   },
+   "back_font_size_px": {
+    "es": [
+     41,
+     36
+    ],
+    "fr": [
+     38,
+     36
+    ],
+    "ru": [
+     33,
+     36
+    ]
+   },
+   "back_langs": [
+    "es",
+    "fr",
+    "ru"
+   ]
+  }
+ ]
+}

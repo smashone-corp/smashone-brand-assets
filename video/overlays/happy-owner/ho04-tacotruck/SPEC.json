@@ -1,0 +1,261 @@
+{
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "ho04-tacotruck-frame-C.jpg",
+  "sha8": "128bf4ec",
+  "upscale": 1.406
+ },
+ "built": "2026-09-18T16:10:51Z",
+ "keep_clear_bboxes": {
+  "герой в окне": [
+   200,
+   940,
+   730,
+   1810
+  ]
+ },
+ "handwriting_font": "Caveat",
+ "haze": {
+  "png": "layers/haze.png",
+  "top": 0,
+  "dense_end": 636,
+  "fade_px": 220,
+  "alpha": 0.9,
+  "clear_until": null,
+  "dense_from": null,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 0,
+   "y": 0,
+   "w": 1080,
+   "h": 843
+  },
+  "max_alpha_step": 3
+ },
+ "logo": {
+  "png": "layers/logo.png",
+  "mark_px": 160,
+  "word": null,
+  "x": 72,
+  "y": 120,
+  "appear": 0.0,
+  "lives_s": 10,
+  "dissolve": null,
+  "bbox_on_poster": {
+   "x": 95,
+   "y": 140,
+   "w": 117,
+   "h": 124
+  },
+  "background_under_mark": [
+   240,
+   250,
+   250
+  ],
+  "mark_backdrop": "кадр вокруг знака",
+  "contrast_mark_vs_background": 3.06
+ },
+ "headline": {
+  "png": "layers/headline.png",
+  "lines": [
+   "My AI employee",
+   "posts for me daily."
+  ],
+  "x": 72,
+  "y": 300,
+  "size_px": 91,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 76,
+   "y": 312,
+   "w": 742,
+   "h": 184
+  },
+  "contrast_min": 18.48
+ },
+ "subline": {
+  "png": "layers/subline.png",
+  "text": "I didn't write a word.",
+  "x": 76,
+  "y": 545,
+  "size_px": 46,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 79,
+   "y": 552,
+   "w": 442,
+   "h": 36
+  },
+  "gap_to_headline_px": 56,
+  "contrast_min": 16.35
+ },
+ "plate": {
+  "png": "layers/plate.png",
+  "text": "Food truck owner · AI-generated scene",
+  "x": 36,
+  "y": 1790,
+  "appear": 0.0,
+  "lives_s": 10,
+  "bbox_on_poster": {
+   "x": 36,
+   "y": 1790,
+   "w": 553,
+   "h": 53
+  }
+ },
+ "slips": [
+  {
+   "id": "s1",
+   "order": 1,
+   "text": "Monday / posted ✓",
+   "png": "layers/s1.png",
+   "x": 838,
+   "y": 1460,
+   "w": 200,
+   "h": 80,
+   "rotation_deg": -4,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 803,
+    "y": 1436,
+    "w": 272,
+    "h": 160
+   },
+   "back_png": [
+    "layers/s1-back-es.png",
+    "layers/s1-back-fr.png",
+    "layers/s1-back-ru.png"
+   ],
+   "back_text": {
+    "es": "Lunes / publicado ✓",
+    "fr": "Lundi / publié ✓",
+    "ru": "Понедельник / выложено ✓"
+   },
+   "back_font_size_px": {
+    "es": [
+     24,
+     21
+    ],
+    "fr": [
+     24,
+     21
+    ],
+    "ru": [
+     23,
+     21
+    ]
+   },
+   "back_langs": [
+    "es",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "s2",
+   "order": 2,
+   "text": "Tuesday / posted ✓",
+   "png": "layers/s2.png",
+   "x": 838,
+   "y": 1574,
+   "w": 200,
+   "h": 80,
+   "rotation_deg": 3,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 801,
+    "y": 1551,
+    "w": 272,
+    "h": 158
+   },
+   "back_png": [
+    "layers/s2-back-es.png",
+    "layers/s2-back-fr.png",
+    "layers/s2-back-ru.png"
+   ],
+   "back_text": {
+    "es": "Martes / publicado ✓",
+    "fr": "Mardi / publié ✓",
+    "ru": "Вторник / выложено ✓"
+   },
+   "back_font_size_px": {
+    "es": [
+     24,
+     21
+    ],
+    "fr": [
+     24,
+     21
+    ],
+    "ru": [
+     23,
+     21
+    ]
+   },
+   "back_langs": [
+    "es",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "s3",
+   "order": 3,
+   "text": "Wednesday / posted ✓",
+   "png": "layers/s3.png",
+   "x": 838,
+   "y": 1790,
+   "w": 200,
+   "h": 80,
+   "rotation_deg": -3,
+   "depth": "front",
+   "appear": 0.0,
+   "lives_s": 10,
+   "bbox_on_poster": {
+    "x": 803,
+    "y": 1767,
+    "w": 272,
+    "h": 153
+   },
+   "back_png": [
+    "layers/s3-back-es.png",
+    "layers/s3-back-fr.png",
+    "layers/s3-back-ru.png"
+   ],
+   "back_text": {
+    "es": "Miércoles / publicado ✓",
+    "fr": "Mercredi / publié ✓",
+    "ru": "Среда / выложено ✓"
+   },
+   "back_font_size_px": {
+    "es": [
+     24,
+     21
+    ],
+    "fr": [
+     24,
+     21
+    ],
+    "ru": [
+     23,
+     21
+    ]
+   },
+   "back_langs": [
+    "es",
+    "fr",
+    "ru"
+   ]
+  }
+ ]
+}
