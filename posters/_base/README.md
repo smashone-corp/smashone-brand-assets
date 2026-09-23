@@ -185,3 +185,7 @@ Minor, который стоит знать: на крючках висят кл
 | критерии GA | лицо в объектив ✅ · глаза открыты ✅ · рот закрыт (не середина слова) ✅ — взят хвост сцены, речь уже кончилась |
 | почему эта сцена | ремесло читается с первого взгляда на миниатюре: кольцо цветных типсов в руке, полки с лаками за спиной; светлее и легче читается мелко, чем вечерние s06/s09 |
 | sha8 | `f8a0bfbb` |
+
+## 2026-09-23-f9-lily-bakery-base-1080x1920.png — sha8 `3e474aee` · 2026-09-23-f9-lily-bakery-anchor-768.png — sha8 `4f5e14ba`
+Owner Stories **f9 — Lily Chen, Chen Family Bakery** (Ada's card O3 «Eleven orders and a cold oven»; role in the work: Avery, preorders). Built by Mira from the poster, the other way round from the rows above: the **base** is the poster frame with no layers (§147), 1080×1920. The poster itself is `owner-stories-f9lily-1080x1920.png` `cb53a986` in SMM-Hub `design/exports/owner-stories/out/`. The **anchor** is the poster's own face (§142/§156), cut by the YuNet face box from the base (`gen/cut_anchor_from_poster.py f9lily`, crop 193,545–691,1043 → 768²).
+Scene: 05:40, bakery before dawn, Lily laughs over her shoulder (emotion: relief) as she slides one tray of dough into the glowing deck oven, both hands in plain mitts; the top third is a dark wall and hood (headline zone); no print anywhere (one bucket label filled deterministically, `gen/column_fill.py`). Face vs bank `heroes/lily-chen/reference/lily-chen-photo-reference-v1.jpeg`: cosine **0.77**. Don: credits only after Valeriy's «yes» on GA's concept.
