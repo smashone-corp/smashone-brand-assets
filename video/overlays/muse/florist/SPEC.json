@@ -1,0 +1,130 @@
+{
+ "canvas": [
+  1080,
+  1920
+ ],
+ "fps_ref": 24,
+ "layers": {
+  "plate-1.png": {
+   "show": [
+    1.0,
+    9.0
+   ],
+   "bbox": {
+    "plate1": [
+     72,
+     300,
+     1008,
+     438
+    ]
+   },
+   "note": "appears 1.0 s; from 3.0 s swap to plate-1-done"
+  },
+  "plate-1-done.png": {
+   "show": [
+    3.0,
+    9.0
+   ],
+   "bbox": {
+    "plate1": [
+     72,
+     300,
+     1008,
+     438
+    ]
+   },
+   "note": "greyed with a check once plate 2 appears"
+  },
+  "plate-2.png": {
+   "show": [
+    3.0,
+    9.0
+   ],
+   "bbox": {
+    "plate2": [
+     72,
+     460,
+     1008,
+     562
+    ]
+   },
+   "note": "appears 3.0 s; from 5.0 s swap to plate-2-done"
+  },
+  "plate-2-done.png": {
+   "show": [
+    5.0,
+    9.0
+   ],
+   "bbox": {
+    "plate2": [
+     72,
+     460,
+     1008,
+     562
+    ]
+   },
+   "note": "greyed with a check once plate 3 appears"
+  },
+  "plate-3.png": {
+   "show": [
+    5.0,
+    9.0
+   ],
+   "bbox": {
+    "plate3": [
+     72,
+     584,
+     1008,
+     722
+    ]
+   },
+   "note": "appears 5.0 s, stays live until 9.0 s"
+  },
+  "disclosure.png": {
+   "show": [
+    10.0,
+    15.0
+   ],
+   "bbox": {
+    "disclosure": [
+     48,
+     1814,
+     585,
+     1872
+    ]
+   },
+   "note": "form of the Owner Stories plate (one line)"
+  },
+  "title.png": {
+   "show": [
+    12.0,
+    15.0
+   ],
+   "bbox": {
+    "title": [
+     90,
+     800,
+     990,
+     964
+    ],
+    "logo": [
+     492,
+     1560,
+     588,
+     1656
+    ]
+   },
+   "note": "centred title + SP mark; the disclosure stays under it"
+  }
+ },
+ "stack": {
+  "x": 72,
+  "y": [
+   300,
+   460,
+   584
+  ],
+  "w": 936,
+  "gap": 22
+ }
+}
