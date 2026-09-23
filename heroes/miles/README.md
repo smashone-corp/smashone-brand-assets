@@ -1,7 +1,7 @@
 # Miles (Майлз) — AI business advisor
 
 `reference/miles-photo-reference-v1.jpeg` — **фотоэталон, снят Доном 07.09.2026** из портрета ростера
-`ai-employees/ai-office/miles-master-1024.png` (Nano Banana 2 ×4 в проекте Flow `e25b72c1`, 0 кредитов;
+`heroes/miles/refs/ai-office-2026-08/miles-master-1024.png` (Nano Banana 2 ×4 в проекте Flow `e25b72c1`, 0 кредитов;
 кадр **C** выбран GA). Косинусы кандидатов к рисунку: A `0.585` · B `0.525` · **C `0.498`** · D `0.547` —
 C выбран глазами GA, а не по числу; для пары «рисунок↔фото» такой разброс норма. Персона: седой мужчина
 ~55–60, зачёсанные назад волосы, чисто выбрит. Голос Character — **Charon custom** (утверждён GA 07.09.2026,
