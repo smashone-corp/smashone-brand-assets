@@ -1,0 +1,24 @@
+{
+ "film": "f9",
+ "trade": "Dog grooming salon owner",
+ "tail": "AI-generated scene · not a real customer",
+ "canvas": [
+  1080,
+  1920
+ ],
+ "plate_bbox": [
+  48,
+  1782,
+  537,
+  1872
+ ],
+ "plate_size": [
+  489,
+  90
+ ],
+ "anchor": "левый нижний угол, left 48 / bottom 48",
+ "font": "Inter 600 25px / Inter 400 23px, интерлиньяж 1.2, зазор 4px",
+ "background": "rgba(17,19,21,.86), радиус 10, поля 14x22",
+ "trade_limit_chars": 34,
+ "why_two_lines": "постоянная часть вынесена второй строкой: она задаёт ширину, поэтому смена занятия не двигает раскладку (у однострочных плашек HO ширина плавала: 552 px у ho01 против 505 px у ho03)"
+}
