@@ -9,7 +9,7 @@ Raw-база: `https://raw.githubusercontent.com/smashone-corp/smashone-brand-as
 ## Токены
 | Что | Значение |
 |---|---|
-| Шрифт | **Onest** (variable 100–900, OFL) — `fonts/Onest-Variable.ttf`; системные шрифты не используются |
+| Шрифт | **Onest** (variable 100–900, OFL) — `fonts/Onest-Variable.ttf`, **с кириллицей с 25.09.2026** (статические начертания, Inter и таблица sha — `fonts/README.md`); системные шрифты не используются |
 | Золото | `#B08930` |
 | Текст на золоте | `#1A1917` (a11y-канон: на золоте только тёмный текст) |
 | Крем (светлый фон) | `#F7F6F2` |
