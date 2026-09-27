@@ -15,10 +15,10 @@
    226
   ],
   "paper plane": [
-   770,
+   130,
    340,
-   250,
-   310
+   330,
+   320
   ],
   "SP (Don)": [
    48,
@@ -60,13 +60,13 @@
    "w": 574,
    "h": 131
   },
-  "contrast_min": 9.25
+  "contrast_min": 10.96
  },
  "subline": {
   "png": "layers/HO-35/subline.png",
-  "sha8": "ad8edb6a",
-  "text": "My AI employee replies while I sleep.",
-  "words": 7,
+  "sha8": "9ee65da2",
+  "text": "My AI employee replies at midnight, from my rules.",
+  "words": 9,
   "author": "Mira (by the role passport)",
   "x": 248,
   "y": 290,
@@ -77,15 +77,30 @@
   "bbox_on_poster": {
    "x": 248,
    "y": 290,
-   "w": 534,
+   "w": 734,
    "h": 36
   },
-  "contrast_min": 8.69
+  "contrast_min": 8.38
  },
- "poster_preview": "out/HO-35-poster-3f3c13e8.png",
+ "haze": {
+  "png": "layers/HO-35/haze.png",
+  "sha8": "869b1db0",
+  "tone": "dark",
+  "box": [
+   220,
+   262,
+   810,
+   76
+  ],
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "order": 0
+ },
+ "poster_preview": "out/HO-35-poster-a4f76c5e.png",
  "layers_in_keep_clear": [],
  "text_on_our_layer": [
   "Midnight questions, answered",
-  "My AI employee replies while I sleep."
+  "My AI employee replies at midnight, from my rules."
  ]
 }
