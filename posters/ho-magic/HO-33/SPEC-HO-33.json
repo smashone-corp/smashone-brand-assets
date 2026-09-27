@@ -1,0 +1,97 @@
+{
+ "ho": "HO-33",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-33/HO-33-frame0-bdb01084.png",
+  "sha8": "bdb01084"
+ },
+ "role": "lead qualifier",
+ "ink": "dark",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   476,
+   820,
+   145,
+   199
+  ],
+  "glowing bubbles": [
+   170,
+   370,
+   740,
+   360
+  ],
+  "glowing stones on the counter": [
+   660,
+   1590,
+   330,
+   170
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-33/headline.png",
+  "sha8": "de81df1c",
+  "lines": [
+   "Only the serious ones",
+   "reach me"
+  ],
+  "hook_from_don_readme": "Only the serious ones reach me",
+  "words": 6,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 627,
+   "h": 131
+  },
+  "contrast_min": 6.18
+ },
+ "subline": {
+  "png": "layers/HO-33/subline.png",
+  "sha8": "bfaba1d4",
+  "text": "My AI employee sorts every lead first.",
+  "words": 7,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 549,
+   "h": 36
+  },
+  "contrast_min": 7.23
+ },
+ "poster_preview": "out/HO-33-poster-07b6351c.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "Only the serious ones reach me",
+  "My AI employee sorts every lead first."
+ ]
+}

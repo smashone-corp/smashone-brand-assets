@@ -1,0 +1,97 @@
+{
+ "ho": "HO-34",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-34/HO-34-frame0-2b7249b0.png",
+  "sha8": "2b7249b0"
+ },
+ "role": "administrator",
+ "ink": "dark",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   476,
+   580,
+   159,
+   210
+  ],
+  "speech bubbles": [
+   60,
+   590,
+   470,
+   330
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ],
+  "narrow card left (Don)": [
+   150,
+   720,
+   190,
+   198
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-34/headline.png",
+  "sha8": "e6ef7912",
+  "lines": [
+   "Three languages.",
+   "One answer."
+  ],
+  "hook_from_don_readme": "Three languages. One answer.",
+  "words": 4,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 499,
+   "h": 131
+  },
+  "contrast_min": 5.07
+ },
+ "subline": {
+  "png": "layers/HO-34/subline.png",
+  "sha8": "e0a620b6",
+  "text": "My AI employee replies in their language.",
+  "words": 7,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 597,
+   "h": 36
+  },
+  "contrast_min": 6.71
+ },
+ "poster_preview": "out/HO-34-poster-682bb2a2.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "Three languages. One answer.",
+  "My AI employee replies in their language."
+ ]
+}
