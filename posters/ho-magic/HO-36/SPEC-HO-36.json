@@ -1,0 +1,91 @@
+{
+ "ho": "HO-36",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-36/HO-36-frame0-31f530e1.png",
+  "sha8": "31f530e1"
+ },
+ "role": "sales consultant",
+ "ink": "dark",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   452,
+   745,
+   169,
+   219
+  ],
+  "plant in her hands": [
+   560,
+   1140,
+   280,
+   380
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-36/headline.png",
+  "sha8": "f4b2b9bf",
+  "lines": [
+   "She knew which plant",
+   "I needed"
+  ],
+  "hook_from_don_readme": "She knew which plant I needed",
+  "words": 6,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 646,
+   "h": 131
+  },
+  "contrast_min": 15.2
+ },
+ "subline": {
+  "png": "layers/HO-36/subline.png",
+  "sha8": "f5e656cc",
+  "text": "My AI employee knows my whole catalog.",
+  "words": 7,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 607,
+   "h": 36
+  },
+  "contrast_min": 14.75
+ },
+ "poster_preview": "out/HO-36-poster-ac638dd1.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "She knew which plant I needed",
+  "My AI employee knows my whole catalog."
+ ]
+}

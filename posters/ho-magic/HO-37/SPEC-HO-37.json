@@ -1,0 +1,112 @@
+{
+ "ho": "HO-37",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-37/HO-37-frame0-3dbbf1af.png",
+  "sha8": "3dbbf1af"
+ },
+ "role": "video maker",
+ "ink": "light",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   471,
+   704,
+   173,
+   218
+  ],
+  "floating photo": [
+   380,
+   120,
+   330,
+   490
+  ],
+  "steam over the pot": [
+   390,
+   0,
+   330,
+   120
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   1480,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-37/headline.png",
+  "sha8": "ea151a73",
+  "lines": [
+   "One photo.",
+   "Lunch clip."
+  ],
+  "hook_from_don_readme": "One photo. Lunch clip.",
+  "words": 4,
+  "x": 718,
+  "y": 176,
+  "size_px": 58,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 718,
+   "y": 176,
+   "w": 292,
+   "h": 118
+  },
+  "contrast_min": 9.0
+ },
+ "subline": {
+  "png": "layers/HO-37/subline.png",
+  "sha8": "6dc5dda4",
+  "text": "My AI employee turns photos into clips.",
+  "words": 7,
+  "author": "Mira (by the role passport)",
+  "x": 718,
+  "y": 306,
+  "size_px": 26,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 718,
+   "y": 306,
+   "w": 322,
+   "h": 62
+  },
+  "contrast_min": 8.68
+ },
+ "haze": {
+  "png": "layers/HO-37/haze.png",
+  "sha8": "58f14f56",
+  "tone": "dark",
+  "box": [
+   676,
+   110,
+   404,
+   300
+  ],
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "order": 0
+ },
+ "poster_preview": "out/HO-37-poster-5925a88c.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "One photo. Lunch clip.",
+  "My AI employee turns photos into clips."
+ ]
+}

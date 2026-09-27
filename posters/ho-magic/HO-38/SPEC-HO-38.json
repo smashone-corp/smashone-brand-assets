@@ -1,0 +1,112 @@
+{
+ "ho": "HO-38",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-38/HO-38-frame0-5ebd7664.png",
+  "sha8": "5ebd7664"
+ },
+ "role": "appointment coordinator",
+ "ink": "dark",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   591,
+   799,
+   147,
+   201
+  ],
+  "floating notes": [
+   340,
+   440,
+   700,
+   280
+  ],
+  "wall calendar": [
+   60,
+   540,
+   560,
+   540
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-38/headline.png",
+  "sha8": "71751a7d",
+  "lines": [
+   "My week",
+   "filled itself"
+  ],
+  "hook_from_don_readme": "My week filled itself",
+  "words": 4,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 297,
+   "h": 131
+  },
+  "contrast_min": 8.86
+ },
+ "subline": {
+  "png": "layers/HO-38/subline.png",
+  "sha8": "cfb7a333",
+  "text": "My AI employee answers every booking request.",
+  "words": 7,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 705,
+   "h": 36
+  },
+  "contrast_min": 11.08
+ },
+ "haze": {
+  "png": "layers/HO-38/haze.png",
+  "sha8": "00053fb5",
+  "tone": "light",
+  "box": [
+   220,
+   130,
+   830,
+   220
+  ],
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "order": 0
+ },
+ "poster_preview": "out/HO-38-poster-c28f1429.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "My week filled itself",
+  "My AI employee answers every booking request."
+ ]
+}
