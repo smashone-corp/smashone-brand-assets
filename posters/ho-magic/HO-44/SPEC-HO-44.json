@@ -1,0 +1,106 @@
+{
+ "ho": "HO-44",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-44/HO-44-frame0-c5ded13c.png",
+  "sha8": "c5ded13c"
+ },
+ "role": "sales consultant",
+ "ink": "light",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   504,
+   954,
+   145,
+   193
+  ],
+  "the guitar that rings": [
+   150,
+   660,
+   210,
+   480
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-44/headline.png",
+  "sha8": "88626e7e",
+  "lines": [
+   "The right guitar",
+   "rang"
+  ],
+  "hook_from_don_readme": "The right guitar rang",
+  "words": 4,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 446,
+   "h": 131
+  },
+  "contrast_min": 5.24
+ },
+ "subline": {
+  "png": "layers/HO-44/subline.png",
+  "sha8": "0e4c679e",
+  "text": "My AI employee asks first, then suggests one.",
+  "words": 8,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 668,
+   "h": 36
+  },
+  "contrast_min": 5.85
+ },
+ "haze": {
+  "png": "layers/HO-44/haze.png",
+  "sha8": "b1004552",
+  "tone": "dark",
+  "box": [
+   220,
+   118,
+   830,
+   236
+  ],
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "order": 0
+ },
+ "poster_preview": "out/HO-44-poster-24a622d9.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "The right guitar rang",
+  "My AI employee asks first, then suggests one."
+ ]
+}

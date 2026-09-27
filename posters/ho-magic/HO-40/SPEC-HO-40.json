@@ -1,0 +1,92 @@
+{
+ "ho": "HO-40",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-40/HO-40-frame0-339fedea.png",
+  "sha8": "339fedea"
+ },
+ "role": "SMM manager",
+ "ink": "dark",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   379,
+   746,
+   145,
+   198
+  ],
+  "rising post cards": [
+   700,
+   620,
+   300,
+   830
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   1480,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-40/headline.png",
+  "sha8": "db5f48cb",
+  "lines": [
+   "I pull honey.",
+   "It posts."
+  ],
+  "hook_from_don_readme": "I pull honey. It posts.",
+  "words": 5,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 354,
+   "h": 131
+  },
+  "contrast_min": 13.2
+ },
+ "subline": {
+  "png": "layers/HO-40/subline.png",
+  "sha8": "8e597134",
+  "text": "My AI employee posts it. I never type.",
+  "words": 8,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 543,
+   "h": 36
+  },
+  "contrast_min": 13.66
+ },
+ "haze": null,
+ "poster_preview": "out/HO-40-poster-d032cc29.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "I pull honey. It posts.",
+  "My AI employee posts it. I never type."
+ ]
+}

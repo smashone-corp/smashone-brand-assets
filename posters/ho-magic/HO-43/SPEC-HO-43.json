@@ -1,0 +1,92 @@
+{
+ "ho": "HO-43",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-43/HO-43-frame0-2551baf4.png",
+  "sha8": "2551baf4"
+ },
+ "role": "customer support agent",
+ "ink": "dark",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   459,
+   616,
+   188,
+   251
+  ],
+  "envelopes opening on the table": [
+   690,
+   1280,
+   320,
+   300
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-43/headline.png",
+  "sha8": "fa287aea",
+  "lines": [
+   "Answered",
+   "before breakfast"
+  ],
+  "hook_from_don_readme": "Answered before breakfast",
+  "words": 3,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 481,
+   "h": 131
+  },
+  "contrast_min": 10.64
+ },
+ "subline": {
+  "png": "layers/HO-43/subline.png",
+  "sha8": "a77a341f",
+  "text": "My AI employee answers from my own rules.",
+  "words": 8,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 649,
+   "h": 36
+  },
+  "contrast_min": 11.54
+ },
+ "haze": null,
+ "poster_preview": "out/HO-43-poster-03298eae.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "Answered before breakfast",
+  "My AI employee answers from my own rules."
+ ]
+}

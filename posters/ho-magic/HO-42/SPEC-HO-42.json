@@ -1,0 +1,106 @@
+{
+ "ho": "HO-42",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-42/HO-42-frame0-53444a5c.png",
+  "sha8": "53444a5c"
+ },
+ "role": "video maker",
+ "ink": "light",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   478,
+   625,
+   174,
+   246
+  ],
+  "photo rising over the tray": [
+   660,
+   950,
+   260,
+   310
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-42/headline.png",
+  "sha8": "6b711624",
+  "lines": [
+   "One photo.",
+   "Noon clip."
+  ],
+  "hook_from_don_readme": "One photo. Noon clip.",
+  "words": 4,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 323,
+   "h": 131
+  },
+  "contrast_min": 7.91
+ },
+ "subline": {
+  "png": "layers/HO-42/subline.png",
+  "sha8": "27018c75",
+  "text": "My AI employee makes the clip by noon.",
+  "words": 8,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 582,
+   "h": 36
+  },
+  "contrast_min": 7.25
+ },
+ "haze": {
+  "png": "layers/HO-42/haze.png",
+  "sha8": "3bd06fbe",
+  "tone": "dark",
+  "box": [
+   200,
+   96,
+   870,
+   268
+  ],
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "order": 0
+ },
+ "poster_preview": "out/HO-42-poster-46dfc63f.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "One photo. Noon clip.",
+  "My AI employee makes the clip by noon."
+ ]
+}

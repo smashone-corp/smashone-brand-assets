@@ -1,0 +1,106 @@
+{
+ "ho": "HO-39",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-39/HO-39-frame0-6ecf9aee.png",
+  "sha8": "6ecf9aee"
+ },
+ "role": "receptionist",
+ "ink": "dark",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   433,
+   392,
+   114,
+   150
+  ],
+  "glowing phone in the ladder pocket": [
+   280,
+   760,
+   300,
+   220
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-39/headline.png",
+  "sha8": "6a35bf34",
+  "lines": [
+   "Three calls.",
+   "Zero missed."
+  ],
+  "hook_from_don_readme": "Three calls. Zero missed.",
+  "words": 4,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 369,
+   "h": 131
+  },
+  "contrast_min": 9.85
+ },
+ "subline": {
+  "png": "layers/HO-39/subline.png",
+  "sha8": "8be565e7",
+  "text": "My AI employee answered all three for me.",
+  "words": 8,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 617,
+   "h": 36
+  },
+  "contrast_min": 10.77
+ },
+ "haze": {
+  "png": "layers/HO-39/haze.png",
+  "sha8": "00053fb5",
+  "tone": "light",
+  "box": [
+   220,
+   130,
+   830,
+   220
+  ],
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "order": 0
+ },
+ "poster_preview": "out/HO-39-poster-6e776f87.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "Three calls. Zero missed.",
+  "My AI employee answered all three for me."
+ ]
+}

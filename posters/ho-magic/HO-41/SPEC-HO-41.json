@@ -1,0 +1,92 @@
+{
+ "ho": "HO-41",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-41/HO-41-frame0-e8b0a459.png",
+  "sha8": "e8b0a459"
+ },
+ "role": "appointment coordinator",
+ "ink": "dark",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   479,
+   807,
+   183,
+   237
+  ],
+  "tags on the hooks": [
+   80,
+   420,
+   800,
+   270
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-41/headline.png",
+  "sha8": "df7dcb71",
+  "lines": [
+   "Bookings hang",
+   "themselves"
+  ],
+  "hook_from_don_readme": "Bookings hang themselves",
+  "words": 3,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 435,
+   "h": 131
+  },
+  "contrast_min": 11.43
+ },
+ "subline": {
+  "png": "layers/HO-41/subline.png",
+  "sha8": "bc96f4e5",
+  "text": "People book in chat. I just tap yes.",
+  "words": 8,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 493,
+   "h": 36
+  },
+  "contrast_min": 11.55
+ },
+ "haze": null,
+ "poster_preview": "out/HO-41-poster-2e9840e6.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "Bookings hang themselves",
+  "People book in chat. I just tap yes."
+ ]
+}
