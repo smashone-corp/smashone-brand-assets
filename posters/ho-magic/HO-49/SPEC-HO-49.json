@@ -1,0 +1,106 @@
+{
+ "ho": "HO-49",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-49/HO-49-frame0-d8ae6a37.png",
+  "sha8": "d8ae6a37"
+ },
+ "role": "sales consultant",
+ "ink": "dark",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   375,
+   848,
+   143,
+   191
+  ],
+  "tin with rising steam": [
+   600,
+   560,
+   160,
+   460
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-49/headline.png",
+  "sha8": "393f544f",
+  "lines": [
+   "The right tea",
+   "opened itself"
+  ],
+  "hook_from_don_readme": "The right tea opened itself",
+  "words": 5,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 377,
+   "h": 131
+  },
+  "contrast_min": 9.52
+ },
+ "subline": {
+  "png": "layers/HO-49/subline.png",
+  "sha8": "ddb51991",
+  "text": "It asks what they drink, then suggests.",
+  "words": 7,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 558,
+   "h": 36
+  },
+  "contrast_min": 13.43
+ },
+ "haze": {
+  "png": "layers/HO-49/haze.png",
+  "sha8": "00053fb5",
+  "tone": "light",
+  "box": [
+   220,
+   130,
+   830,
+   220
+  ],
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "order": 0
+ },
+ "poster_preview": "out/HO-49-poster-369cfa7f.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "The right tea opened itself",
+  "It asks what they drink, then suggests."
+ ]
+}

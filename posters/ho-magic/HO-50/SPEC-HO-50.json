@@ -1,0 +1,112 @@
+{
+ "ho": "HO-50",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-50/HO-50-frame0-30279285.png",
+  "sha8": "30279285"
+ },
+ "role": "video maker",
+ "ink": "dark",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   475,
+   772,
+   181,
+   237
+  ],
+  "film ribbon from the blender": [
+   470,
+   0,
+   460,
+   1500
+  ],
+  "mango in the air": [
+   270,
+   620,
+   140,
+   130
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-50/headline.png",
+  "sha8": "d4a51364",
+  "lines": [
+   "One photo.",
+   "A clip by lunch."
+  ],
+  "hook_from_don_readme": "One photo. A clip by lunch.",
+  "words": 6,
+  "x": 48,
+  "y": 336,
+  "size_px": 54,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 48,
+   "y": 336,
+   "w": 378,
+   "h": 110
+  },
+  "contrast_min": 8.42
+ },
+ "subline": {
+  "png": "layers/HO-50/subline.png",
+  "sha8": "30d8495e",
+  "text": "By lunch it's a clip customers share.",
+  "words": 7,
+  "author": "Mira (by the role passport)",
+  "x": 48,
+  "y": 460,
+  "size_px": 26,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 48,
+   "y": 460,
+   "w": 400,
+   "h": 62
+  },
+  "contrast_min": 11.38
+ },
+ "haze": {
+  "png": "layers/HO-50/haze.png",
+  "sha8": "0de447a4",
+  "tone": "light",
+  "box": [
+   24,
+   316,
+   440,
+   290
+  ],
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "order": 0
+ },
+ "poster_preview": "out/HO-50-poster-95c24cb4.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "One photo. A clip by lunch.",
+  "By lunch it's a clip customers share."
+ ]
+}

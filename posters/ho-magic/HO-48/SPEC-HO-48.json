@@ -1,0 +1,106 @@
+{
+ "ho": "HO-48",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-48/HO-48-frame0-97b33953.png",
+  "sha8": "97b33953"
+ },
+ "role": "SMM manager",
+ "ink": "light",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   340,
+   776,
+   173,
+   203
+  ],
+  "glowing record sleeves": [
+   340,
+   640,
+   760,
+   600
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-48/headline.png",
+  "sha8": "861fbe49",
+  "lines": [
+   "I spin records.",
+   "It posts."
+  ],
+  "hook_from_don_readme": "I spin records. It posts.",
+  "words": 5,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 410,
+   "h": 131
+  },
+  "contrast_min": 7.39
+ },
+ "subline": {
+  "png": "layers/HO-48/subline.png",
+  "sha8": "70e66c8d",
+  "text": "My pages stay full. I never type.",
+  "words": 7,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 462,
+   "h": 36
+  },
+  "contrast_min": 7.11
+ },
+ "haze": {
+  "png": "layers/HO-48/haze.png",
+  "sha8": "b1004552",
+  "tone": "dark",
+  "box": [
+   220,
+   118,
+   830,
+   236
+  ],
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "order": 0
+ },
+ "poster_preview": "out/HO-48-poster-1a3ebfc2.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "I spin records. It posts.",
+  "My pages stay full. I never type."
+ ]
+}

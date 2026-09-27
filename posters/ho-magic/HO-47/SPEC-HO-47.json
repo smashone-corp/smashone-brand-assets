@@ -1,0 +1,92 @@
+{
+ "ho": "HO-47",
+ "artboard": "1080x1920",
+ "source_frame": {
+  "file": "brand/exports/poster-keyframes-2026-09-27/HO-47/HO-47-frame0-3a6feb6b.png",
+  "sha8": "3a6feb6b"
+ },
+ "role": "receptionist",
+ "ink": "dark",
+ "keep_clear_bboxes": {
+  "face (YuNet)": [
+   540,
+   714,
+   161,
+   213
+  ],
+  "rising handset": [
+   80,
+   740,
+   230,
+   620
+  ],
+  "SP (Don)": [
+   48,
+   140,
+   160,
+   160
+  ],
+  "card top-right (Don)": [
+   560,
+   330,
+   472,
+   112
+  ],
+  "plate (Don)": [
+   48,
+   1760,
+   700,
+   90
+  ]
+ },
+ "headline": {
+  "png": "layers/HO-47/headline.png",
+  "sha8": "784a8322",
+  "lines": [
+   "The phone",
+   "answered itself"
+  ],
+  "hook_from_don_readme": "The phone answered itself",
+  "words": 4,
+  "x": 248,
+  "y": 150,
+  "size_px": 64,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 150,
+   "w": 444,
+   "h": 131
+  },
+  "contrast_min": 9.73
+ },
+ "subline": {
+  "png": "layers/HO-47/subline.png",
+  "sha8": "7be77b6e",
+  "text": "Every caller got a time held to confirm.",
+  "words": 8,
+  "author": "Mira (by the role passport)",
+  "x": 248,
+  "y": 290,
+  "size_px": 30,
+  "appear": 0.0,
+  "dissolve_start": 1.2,
+  "dissolve_end": 2.0,
+  "bbox_on_poster": {
+   "x": 248,
+   "y": 290,
+   "w": 558,
+   "h": 36
+  },
+  "contrast_min": 7.48
+ },
+ "haze": null,
+ "poster_preview": "out/HO-47-poster-3f414cfb.png",
+ "layers_in_keep_clear": [],
+ "text_on_our_layer": [
+  "The phone answered itself",
+  "Every caller got a time held to confirm."
+ ]
+}
