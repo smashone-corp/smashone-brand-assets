@@ -7,3 +7,5 @@ Claude Design canvas https://claude.ai/artifact/D7BoDSJrohDBysUm2i2jCD (FinalB16
 | `mainstreet-ep1-Bprime-16x9-b1e1db14.png` | YouTube cover 1920×1080 | waiting for Valery |
 | `mainstreet-ep1-Bprime-4x5-29de31a8.png` | announcement 1080×1350 | waiting for Valery |
 | `mainstreet-ep1-Bprime-1x1-f0f5823e.png` | announcement 1080×1080 | waiting for Valery |
+
+| `mainstreet-ep1-A-16x9-d04c677a.png` | variant A, YouTube cover 1920×1080, on Don's frame A 6d6f5ffc (phone darkened by light) | waiting for Valery |
