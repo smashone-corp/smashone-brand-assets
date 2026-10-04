@@ -212,3 +212,4 @@ Scene: Curtis in three-quarter view, mouth open, eyes on the stripe; orange comb
 
 
 - 2026-10-04 · Hands Full ep07 «ONE BITE. IT RINGS.» — Mira, own generation by bank refs (Curtis 06f80d7c · shop q8B 613d9481 · Jordan 5a0c5f18): 9:16 mira-916-b2 554fee78 (from gen b2 9a6dbc23, moved down 190 px, wall band stretched) · 16:9 1992424d · 4:5 d634b1ee · 1:1 602d4818. Posters → posters/hands-full/ep07-one-bite-it-rings/.
+| 2026-10-04 | Hands Full ep07 «ONE BITE. IT RINGS.» | Don (заказ Миры 05:1x ET) | `2026-10-04-hf-ep07-s03-bea9a077.jpg` s03 q1 D — основной (щёки полные, ладонь к телефону) · `-s07-9a2664f8` s07 q1 C — портрет Джордан на экране, Кёртис с сэндвичем · `-s01-44edd871` s01 q1 A — обе руки на целом сэндвиче; кадры четвёрок фильма 550a436d, 768×1376, 9:16 |
