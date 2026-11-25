@@ -49,6 +49,8 @@ cd og && sha256sum -c SHA256SUMS.txt
 | `og-reading.jpg` | 1200×630 | 40246 | `2c6248483e84719e0f81b8ab82e4139fd4156f5863c01e873b1ef01ff45fd82d` |
 | `og-share-1200x630.png` | 1200×630 | 464778 | `f5ca501fd8d8ba51935d838274a77b1edf2d3bc2176e05bd803d740d36b22f1d` |
 | `og-team.jpg` | 1200×630 | 88900 | `3e0be0fbfccb5c9cc6028d3433403d5fa4b3d7959ae0818c129bed7b6fedb63f` |
+| `og-pricing-made-to-fit.jpg` | 1200×630 | 106131 | `af554ff21b5e77790aabbd09a507cf9fe9ddba705bc655315392f576325754a2` |
+| `og-your-ai-team.jpg` | 1200×630 | 124469 | `54f3b55d7899991411ba6b97ad2e67cc751b1f4d00ae48db07cbfe4a92ba60db` |
 | `roles/og-role-administrator.jpg` | 1200×630 | 32022 | `135f09a76f2b8b0c9ce322954c397df649b6bf7f3c79bc5e2a606c1cb225aab6` |
 | `roles/og-role-appointment-coordinator.jpg` | 1200×630 | 34112 | `cb6d2beaeec056a9c7967e0e9121bee8b577e89e1808443e0acc6488fe504907` |
 | `roles/og-role-business-advisor.jpg` | 1200×630 | 41090 | `c0917ad567fd4c83a061c2f4d4ce681292f9b3872a331740452be7cc6f370b48` |
@@ -69,3 +71,5 @@ cd og && sha256sum -c SHA256SUMS.txt
 а уменьшает их Cloudflare на выдаче (заголовок `cf-bgj: h2pri,imgq:100`).
 Пиксели при этом не меняются — 1200×630 и на выдаче тоже.
 Значит краулеры соцсетей забирают пережатую копию, и канон качества = файл здесь, а не в ленте.
+
+25.11.2026 (Mira, Ivo 0520): two photo cards without digits, board Claude Design 311 r2. They are NOT drawn by web/scripts/og/render-og.mjs; their squares are in social/posts/2026-11/OG-2026-11-25-*-sq.png.
