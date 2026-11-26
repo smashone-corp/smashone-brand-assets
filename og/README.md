@@ -43,7 +43,7 @@ cd og && sha256sum -c SHA256SUMS.txt
 | `og-blog-who-was-watching.jpg` | 1200×630 | 124121 | `eb9a5d58dd2c69ce88e34ea0162b83e8e518e248eecebfc42a2f617e86b3b51d` |
 | `og-business.jpg` | 1200×630 | 58145 | `2deb24ae0dd81a49f8a91d30a5be5ab21643725156d3b28feed72ac34cd5565f` |
 | `og-easy-setup.jpg` | 1200×630 | 62543 | `8c9e0c96784229a890993079b40b8b090de207e1d2307dbee6d4acb14633caa4` |
-| `og-home.jpg` | 1200×630 | 91728 | `aae5d96b9f61ce6192ee6da124463425a54807b9fb6eb81ae47e5326d66d871a` |
+| `og-home.jpg` | 1200×630 | 115065 | `50b31c3c7fe220bd4af6c10c2eb1400483f383616b646be7fed8164f483d973c` |
 | `og-partner.jpg` | 1200×630 | 40792 | `4aeef515dfd713aa4a100d0fc7197228e09620eb94ee2dcc90319e007b4a432a` |
 | `og-pricing.jpg` | 1200×630 | 52201 | `1548c80e486dfa325af55f49c37bc8fac855b30cf698f02990a770685ebd879c` |
 | `og-reading.jpg` | 1200×630 | 40246 | `2c6248483e84719e0f81b8ab82e4139fd4156f5863c01e873b1ef01ff45fd82d` |
@@ -73,3 +73,6 @@ cd og && sha256sum -c SHA256SUMS.txt
 Значит краулеры соцсетей забирают пережатую копию, и канон качества = файл здесь, а не в ленте.
 
 25.11.2026 (Mira, Ivo 0520): two photo cards without digits, board Claude Design 311 r2. They are NOT drawn by web/scripts/og/render-og.mjs; their squares are in social/posts/2026-11/OG-2026-11-25-*-sq.png.
+
+## og-home.jpg — замена 26.11.2026 (Мира, наряд Клода 1520)
+V3-стиль главной: Маргарет (`heroes/margaret-ellison`) смотрит в камеру на своей кухне, своя широкая сцена (face_gate PASS 3/3); слова — ключи банка `home_first_screen.title` + `.subtitle`, плашка `ai_scene_plate`. Снято обещание «…the AI employee that fixes it» (вариант A 21.10). Доска Claude Design №318 r2, выгрузка `design/exports/2026-11-26-og-home-v3/`.
