@@ -11,3 +11,5 @@ Board: Claude Design №317 r4 (design/exports/2026-11-26-your-ai-team-first-scr
 | team-v1-kwame-moving-day-smile-520x600.webp / @2x | 1440 photo (50% 30% applied) | 2246d4e5 / 83b35794 |
 | team-v1-kwame-moving-day-smile-master-2048.jpg | 4:5 master | — |
 | team-v1-kwame-moving-day-smile-wide-master-2048.jpg | 3:2 master | — |
+
+**Статус:** ✅ УТВЕРЖДЁН Валерием 26.11.2026 (V1 первого экрана `/your-ai-team/`, слово 17:08 МСК); на сайт — в 209 байт в байт.
